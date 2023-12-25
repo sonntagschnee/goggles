@@ -1,0 +1,7 @@
+! name: Eine Goggle
+! description: Eine Goggle halt
+! public: false
+! author: Me
+
+$boost=3,site=britannica.com
+$downrank=3,site=wikipedia.org
