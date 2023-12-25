@@ -9,3 +9,5 @@ $downrank=3,site=wikipedia.org
 $boost=1,site=twitter.com
 
 $downrank=1,site=reddit.com
+
+$discard,site=taz.de
