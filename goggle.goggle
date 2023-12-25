@@ -5,3 +5,5 @@
 
 $boost=3,site=britannica.com
 $downrank=3,site=wikipedia.org
+
+$boost=1,site=twitter.com
