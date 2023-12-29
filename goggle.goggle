@@ -3,12 +3,12 @@
 ! public: false
 ! author: Me
 
-$boost=4,site=britannica.com
-$boost=4,site=brockhaus.de
-$downrank=4,site=wikipedia.org
+$boost=10,site=britannica.com
+$boost=10,site=brockhaus.de
+$discard,site=wikipedia.org
 
-$boost=4,site=twitter.com
+$boost=3,site=twitter.com
 
-$downrank=4,site=reddit.com
+$downrank=3,site=reddit.com
 
 $discard,site=taz.de
