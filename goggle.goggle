@@ -7,6 +7,9 @@ $boost=5,site=britannica.com
 $boost=5,site=brockhaus.de
 $discard,site=wikipedia.org
 
+$boost=5,site=duden.de
+$discard,site=wiktionary.org
+
 $downrank=3,site=reddit.com
 
 $discard,site=taz.de
