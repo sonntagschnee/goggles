@@ -12,3 +12,5 @@ $boost=3,site=twitter.com
 $downrank=3,site=reddit.com
 
 $discard,site=taz.de
+
+$boost=3,site=frag-einen-anwalt.de
