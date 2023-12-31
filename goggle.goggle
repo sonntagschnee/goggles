@@ -7,8 +7,6 @@ $boost=5,site=britannica.com
 $boost=5,site=brockhaus.de
 $discard,site=wikipedia.org
 
-$boost=3,site=twitter.com
-
 $downrank=3,site=reddit.com
 
 $discard,site=taz.de
