@@ -10,5 +10,6 @@ $discard,site=wikipedia.org
 $downrank=3,site=reddit.com
 
 $discard,site=taz.de
+$discard,site=volksverpetzer.de
 
 $boost=3,site=frag-einen-anwalt.de
