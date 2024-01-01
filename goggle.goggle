@@ -7,6 +7,7 @@ $boost=5,site=britannica.com
 $boost=5,site=brockhaus.de
 $discard,site=wikipedia.org
 
+$boost=5,site=merriam-webster.com
 $boost=5,site=duden.de
 $discard,site=wiktionary.org
 
